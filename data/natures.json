@@ -1,0 +1,102 @@
+{
+    "Bashful": {
+        "plus_stat": "None",
+        "minus_stat": "None"
+    },
+    "Docile": {
+        "plus_stat": "None",
+        "minus_stat": "None"
+    },
+    "Hardy": {
+        "plus_stat": "None",
+        "minus_stat": "None"
+    },
+    "Quirky": {
+        "plus_stat": "None",
+        "minus_stat": "None"
+    },
+    "Serious": {
+        "plus_stat": "None",
+        "minus_stat": "None"
+    },
+    "Adamant": {
+        "plus_stat": "Attack",
+        "minus_stat": "Special Attack"
+    },
+    "Brave": {
+        "plus_stat": "Attack",
+        "minus_stat": "Speed"
+    },
+    "Lonely": {
+        "plus_stat": "Attack",
+        "minus_stat": "Defense"
+    },
+    "Naughty": {
+        "plus_stat": "Attack",
+        "minus_stat": "Special Defense"
+    },
+    "Bold": {
+        "plus_stat": "Defense",
+        "minus_stat": "Attack"
+    },
+    "Impish": {
+        "plus_stat": "Defense",
+        "minus_stat": "Special Attack"
+    },
+    "Lax": {
+        "plus_stat": "Defense",
+        "minus_stat": "Special Defense"
+    },
+    "Relaxed": {
+        "plus_stat": "Defense",
+        "minus_stat": "Speed"
+    },
+    "Modest": {
+        "plus_stat": "Special Attack",
+        "minus_stat": "Attack"
+    },
+    "Mild": {
+        "plus_stat": "Special Attack",
+        "minus_stat": "Defense"
+    },
+    "Quiet": {
+        "plus_stat": "Special Defense",
+        "minus_stat": "Speed"
+    },
+    "Rash": {
+        "plus_stat": "Special Attack",
+        "minus_stat": "Special Defense"
+    },
+    "Calm": {
+        "plus_stat": "Special Defense",
+        "minus_stat": "Attack"
+    },
+    "Careful": {
+        "plus_stat": "Special Defense",
+        "minus_stat": "Special Attack"
+    },
+    "Gentle": {
+        "plus_stat": "Special Defense",
+        "minus_stat": "Defense"
+    },
+    "Sassy": {
+        "plus_stat": "Special Defense",
+        "minus_stat": "Speed"
+    },
+    "Hasty": {
+        "plus_stat": "Speed",
+        "minus_stat": "Defense"
+    },
+    "Jolly": {
+        "plus_stat": "Speed",
+        "minus_stat": "Special Attack"
+    },
+    "Naive": {
+        "plus_stat": "Speed",
+        "minus_stat": "Special Defense"
+    },
+    "Timid": {
+        "plus_stat": "Speed",
+        "minus_stat": "Attack"
+    }
+}
