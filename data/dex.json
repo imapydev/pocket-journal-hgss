@@ -1,1 +1,31 @@
-{}
+{
+    "001": {
+        "name": "Chikorita",
+        "types": [
+            "Grass"
+        ],
+        "abilities": [
+            "Overgrow"
+        ],
+        "hidden_abilities": [
+            "Leaf Guard"
+        ],
+        "base_stats": [
+            "45",
+            "49",
+            "65",
+            "49",
+            "65",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolution": "Bayleef"
+    }
+}
