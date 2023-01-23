@@ -234,6 +234,7 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
         # Add them
 
         self.layer_four.addWidget(self.encounter_box)
+        self.layer_four.addWidget(self.add_ev_btn)
         self.master_layout.addLayout(self.layer_four)
 
     def reset_entries(self):
@@ -246,6 +247,8 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
         for item in self.current_ivs:
             item.setText("-")
         for item in self.stat_labels:
+            item.setStyleSheet("color: black;")
+        for item in self.current_evs:
             item.setStyleSheet("color: black;")
         self.level.setValue(0)
         self.nature_box.setCurrentIndex(0)
@@ -311,6 +314,8 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
             self.reset_entries()
             return
         else:
+            for item in self.current_evs:
+                item.setStyleSheet("color: black;")
             for item in self.current_ivs:
                 item.setText("-")
             self.sprite_btn.setToolTip(f"Click to view {poke} data")
@@ -425,6 +430,10 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
             else:
                 for item in range(len(self.current_evs)):
                     self.current_evs[item].setValue(self.current_evs[item].value() + int(ev_yields[item]))
+                    # Highlight EVs added
+                    if int(ev_yields[item]) > 0:
+                        self.current_evs[item].setStyleSheet("color: red; background-color: #a7deac;")
+
 
     def add_to_party(self):
         poke = self.dex_box.currentText()
