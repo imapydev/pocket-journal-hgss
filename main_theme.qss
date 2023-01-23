@@ -1,0 +1,61 @@
+QGroupBox#base-group {
+    background-color: #3f73ce;
+    border: 1px solid #b94a52;
+    border-radius: 5px;
+    margin-top: 2ex;
+    
+    
+}
+
+QGroupBox#base-group::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center; /* position at the top center */
+    padding: 0 1x;
+    color: #FFFFFF;
+    background-color: #896189;
+    border: 1px solid #b94a52;
+    border-radius: 5px;
+}
+
+QGroupBox {
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #3f73ce, stop: 1 #FFFFFF);
+    border: 1px solid #b94a52;
+    border-radius: 5px;
+    margin-top: 2ex;
+    padding: 2 0 2 0px;
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center; /* position at the top center */
+    padding: 0 1x;
+    color: #FFFFFF;
+    background-color: #896189;
+    border: 1px solid #b94a52;
+    border-radius: 5px;
+}
+
+QPushButton#sprite-btn {
+    border: 2px solid #8f8f91;
+    border-radius: 6px;
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #f6f7fa, stop: 1 #dadbde);
+    min-width: 80px;
+}
+
+QPushButton#sprite-btn::pressed {
+     background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1,
+                                      stop: 0 #dadbde, stop: 1 #f6f7fa);
+}
+
+QWidget#canvas {
+    background-color: #cf9287;
+}
+
+QSpinBox {
+    border-radius: 5px;
+    border: 1px solid #8f8f91;
+    padding-right: 2px;
+}
+

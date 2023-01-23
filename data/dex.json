@@ -27,5 +27,540 @@
             "0"
         ],
         "evolution": "Bayleef"
+    },
+    "002": {
+        "name": "Bayleef",
+        "types": [
+            "Grass"
+        ],
+        "abilities": [
+            "Overgrow"
+        ],
+        "hidden_abilities": [
+            "Leaf Guard"
+        ],
+        "base_stats": [
+            "60",
+            "62",
+            "80",
+            "63",
+            "80",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolution": "Meganium"
+    },
+    "003": {
+        "name": "Meganium",
+        "types": [
+            "Grass"
+        ],
+        "abilities": [
+            "Overgrow"
+        ],
+        "hidden_abilities": [
+            "Leaf Guard"
+        ],
+        "base_stats": [
+            "80",
+            "82",
+            "100",
+            "83",
+            "100",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolution": ""
+    },
+    "004": {
+        "name": "Cyndaquil",
+        "types": [
+            "Fire"
+        ],
+        "abilities": [
+            "Blaze"
+        ],
+        "hidden_abilities": [
+            "Flash Fire"
+        ],
+        "base_stats": [
+            "39",
+            "52",
+            "43",
+            "60",
+            "50",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolution": "Quilava"
+    },
+    "010": {
+        "name": "Pidgey",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "abilities": [
+            "Keen Eye",
+            "Tangled Feet"
+        ],
+        "hidden_abilities": [
+            "Big Pecks"
+        ],
+        "base_stats": [
+            "40",
+            "45",
+            "40",
+            "35",
+            "35",
+            "56"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolution": "Pidgeotto"
+    },
+    "015": {
+        "name": "Hoothoot",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "abilities": [
+            "Insomnia",
+            "Keen Eye"
+        ],
+        "hidden_abilities": [
+            "Tinted Lens"
+        ],
+        "base_stats": [
+            "60",
+            "30",
+            "30",
+            "36",
+            "56",
+            "50"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Noctowl"
+    },
+    "017": {
+        "name": "Rattata",
+        "types": [
+            "Normal"
+        ],
+        "abilities": [
+            "Run Away",
+            "Guts"
+        ],
+        "hidden_abilities": [
+            "Hustle"
+        ],
+        "base_stats": [
+            "30",
+            "56",
+            "35",
+            "25",
+            "35",
+            "72"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolution": "Raticate"
+    },
+    "019": {
+        "name": "Sentret",
+        "types": [
+            "Normal"
+        ],
+        "abilities": [
+            "Run Away",
+            "Keen Eye"
+        ],
+        "hidden_abilities": [
+            "Frisk"
+        ],
+        "base_stats": [
+            "35",
+            "46",
+            "34",
+            "35",
+            "45",
+            "20"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Furret"
+    },
+    "024": {
+        "name": "Caterpie",
+        "types": [
+            "Bug"
+        ],
+        "abilities": [
+            "Shield Dust"
+        ],
+        "hidden_abilities": [
+            "Run Away"
+        ],
+        "base_stats": [
+            "45",
+            "30",
+            "35",
+            "20",
+            "20",
+            "45"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Metapod"
+    },
+    "027": {
+        "name": "Weedle",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "abilities": [
+            "Shield Dust"
+        ],
+        "hidden_abilities": [
+            "Run Away"
+        ],
+        "base_stats": [
+            "40",
+            "35",
+            "30",
+            "20",
+            "20",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolution": "Kakuna"
+    },
+    "028": {
+        "name": "Kakuna",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "abilities": [
+            "Shed Skin"
+        ],
+        "hidden_abilities": [],
+        "base_stats": [
+            "45",
+            "25",
+            "50",
+            "25",
+            "25",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Beedrill"
+    },
+    "029": {
+        "name": "Beedrill",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "abilities": [
+            "Swarm"
+        ],
+        "hidden_abilities": [
+            "Sniper"
+        ],
+        "base_stats": [
+            "65",
+            "90",
+            "40",
+            "45",
+            "80",
+            "75"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolution": ""
+    },
+    "030": {
+        "name": "Ledyba",
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "abilities": [
+            "Swarm",
+            "Early Bird"
+        ],
+        "hidden_abilities": [
+            "Rattled"
+        ],
+        "base_stats": [
+            "40",
+            "20",
+            "30",
+            "40",
+            "80",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolution": "Ledian"
+    },
+    "034": {
+        "name": "Geodude",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "abilities": [
+            "Rock Head",
+            "Sturdy"
+        ],
+        "hidden_abilities": [
+            "Sand Veil"
+        ],
+        "base_stats": [
+            "40",
+            "80",
+            "100",
+            "30",
+            "30",
+            "20"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Graveler"
+    },
+    "037": {
+        "name": "Zubat",
+        "types": [
+            "Poison",
+            "Flying"
+        ],
+        "abilities": [
+            "Inner Focus"
+        ],
+        "hidden_abilities": [
+            "Infiltrator"
+        ],
+        "base_stats": [
+            "40",
+            "45",
+            "35",
+            "30",
+            "40",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolution": "Golbat"
+    },
+    "058": {
+        "name": "Gastly",
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "abilities": [
+            "Levitate"
+        ],
+        "hidden_abilities": [],
+        "base_stats": [
+            "30",
+            "35",
+            "30",
+            "100",
+            "35",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolution": "Haunter"
+    },
+    "059": {
+        "name": "Haunter",
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "abilities": [
+            "Levitate"
+        ],
+        "hidden_abilities": [],
+        "base_stats": [
+            "45",
+            "50",
+            "45",
+            "115",
+            "55",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolution": "Gengar"
+    },
+    "062": {
+        "name": "Onix",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "abilities": [
+            "Rock Head",
+            "Sturdy"
+        ],
+        "hidden_abilities": [
+            "Weak Armor"
+        ],
+        "base_stats": [
+            "35",
+            "45",
+            "160",
+            "30",
+            "45",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Steelix"
+    },
+    "064": {
+        "name": "Bellsprout",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "abilities": [
+            "Chlorophyll"
+        ],
+        "hidden_abilities": [
+            "Gluttony"
+        ],
+        "base_stats": [
+            "50",
+            "75",
+            "35",
+            "70",
+            "30",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Weepinbell"
     }
 }

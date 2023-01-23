@@ -1,0 +1,54 @@
+{
+    "New Bark Town": [
+        "Chikorita",
+        "Cyndaquil",
+        "Totodile"
+    ],
+    "Route 29": [
+        "Pidgey",
+        "Sentret",
+        "Rattata",
+        "Hoothoot"
+    ],
+    "Route 30": [
+        "Pidgey",
+        "Caterpie",
+        "Metapod",
+        "Spinarak",
+        "Rattata",
+        "Hoothoot",
+        "Ledyba",
+        "Weedle",
+        "Kakuna"
+    ],
+    "Route 31": [
+        "Pidgey",
+        "Caterpie",
+        "Bellsprout",
+        "Metapod",
+        "Spinarak",
+        "Rattata",
+        "Hoothoot",
+        "Ledyba",
+        "Weedle",
+        "Kakuna"
+    ],
+    "Dark Cave": [
+        "Geodude",
+        "Zubat",
+        "Dunsparce"
+    ],
+    "Route 32": [
+        "Bellsprout",
+        "Rattata",
+        "Mareep",
+        "Hoppip",
+        "Zubat",
+        "Wooper",
+        "Ekans"
+    ],
+    "Sprout Tower": [
+        "Rattata",
+        "Gastly"
+    ]
+}

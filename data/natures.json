@@ -60,7 +60,7 @@
         "minus_stat": "Defense"
     },
     "Quiet": {
-        "plus_stat": "Special Defense",
+        "plus_stat": "Special Attack",
         "minus_stat": "Speed"
     },
     "Rash": {

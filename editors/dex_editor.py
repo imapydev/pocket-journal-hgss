@@ -60,4 +60,5 @@ while input("run?: ") != "n":
     }
 
 with open("../data/dex.json", "w") as file:
-    json.dump(dex, file, indent=4)
+    new_data = {key: value for key, value in sorted(dex.items())}
+    json.dump(new_data, file, indent=4)
