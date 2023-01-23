@@ -50,5 +50,24 @@
     "Sprout Tower": [
         "Rattata",
         "Gastly"
+    ],
+    "Union Cave 1F": [
+        "Geodude",
+        "Sandshrew",
+        "Zubat",
+        "Rattata",
+        "Onix"
+    ],
+    "Route 33": [
+        "Hoppip",
+        "Rattata",
+        "Spearow",
+        "Zubat",
+        "Ekans"
+    ],
+    "Violet City Gym": [
+        "Spearow",
+        "Pidgey",
+        "Pidgeotto"
     ]
 }

@@ -23,12 +23,12 @@
     "Geodude": {
         "real_name": "Geodude",
         "stats": [
-            30,
-            21,
+            34,
             24,
+            27,
+            15,
             13,
-            11,
-            11
+            12
         ],
         "evs": [
             5,
@@ -36,51 +36,30 @@
             6,
             0,
             0,
-            17
+            23
         ],
-        "level": 10,
+        "level": 12,
         "nature": "Hasty"
-    },
-    "Bellsprout": {
-        "real_name": "Bellsprout",
-        "stats": [
-            22,
-            14,
-            9,
-            14,
-            7,
-            11
-        ],
-        "evs": [
-            1,
-            0,
-            4,
-            0,
-            0,
-            1
-        ],
-        "level": 6,
-        "nature": "Naive"
     },
     "Beedrill": {
         "real_name": "Beedrill",
         "stats": [
-            34,
-            26,
+            36,
+            28,
+            17,
             16,
-            15,
-            23,
-            20
+            25,
+            22
         ],
         "evs": [
             6,
             6,
-            8,
+            7,
             1,
             1,
-            23
+            24
         ],
-        "level": 10,
+        "level": 11,
         "nature": "Adamant"
     },
     "Pidgey": {
@@ -95,7 +74,7 @@
         ],
         "evs": [
             0,
-            8,
+            10,
             0,
             0,
             0,
@@ -120,7 +99,7 @@
             0,
             0,
             0,
-            5
+            6
         ],
         "level": 8,
         "nature": "Hasty"
@@ -128,22 +107,22 @@
     "Gastly": {
         "real_name": "Gastly",
         "stats": [
-            23,
-            10,
-            10,
-            22,
-            11,
-            16
+            31,
+            13,
+            13,
+            30,
+            15,
+            22
         ],
         "evs": [
             3,
-            1,
+            4,
             0,
             0,
             0,
-            5
+            12
         ],
-        "level": 7,
+        "level": 11,
         "nature": "Quiet"
     }
 }
