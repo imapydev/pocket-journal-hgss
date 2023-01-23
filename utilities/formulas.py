@@ -24,7 +24,6 @@ def calculate_stat_iv(base_stat, evs, level, nature, stat):
 
     for item in range(32):
         stat_formula = math.floor(math.floor((2 * base_stat + iv + math.floor(evs/4)) * level / 100 + 5) * nature)
-        print(f"IV: {stat_formula}")
         if stat_formula == stat:
             iv_range.append(iv)
 
