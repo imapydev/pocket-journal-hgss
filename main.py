@@ -33,6 +33,8 @@ class App(QMainWindow):
 
         self.master_canvas.setLayout(self.master_layout)
         self.setCentralWidget(self.master_canvas)
+
+        self.setMaximumSize(self.width(), self.height())
         self.show()
 
     # Layer creations
@@ -611,3 +613,4 @@ if __name__ == '__main__':
 # run & test   
 # Second window for advanced data
 # If idle for 2 seconds --> save party_db
+# Resize window --> disable!
