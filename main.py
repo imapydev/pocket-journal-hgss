@@ -34,7 +34,7 @@ class App(QMainWindow):
         self.master_canvas.setLayout(self.master_layout)
         self.setCentralWidget(self.master_canvas)
 
-        self.setMaximumSize(self.width(), self.height())
+        self.setFixedSize(self.master_canvas.sizeHint())
         self.show()
 
     # Layer creations
