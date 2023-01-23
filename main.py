@@ -171,16 +171,6 @@ class App(QMainWindow):
         self.sprite_btn.setIconSize(QSize(80, 80))
         self.sprite_btn.clicked.connect(self.show_data)
 
-        # self.stats_group.setContentsMargins(2, 0, 5, 0)
-        # self.stats_group.setFixedWidth(80)
-        # self.evs_group.setContentsMargins(2, 0, 5, 0)
-        # self.evs_group.setFixedWidth(80)
-        # self.ivs_group.setContentsMargins(2, 0, 5, 0)
-        # self.ivs_group.setFixedWidth(80)
-
-
-
-
         self.layer_two.addWidget(self.base_stats_group)
         self.layer_two.addWidget(self.stats_group)
         self.layer_two.addWidget(self.evs_group)
@@ -222,12 +212,6 @@ class App(QMainWindow):
         self.ivs_btn.setToolTip("Calculates the Individual Values of the selected Pokémon in the party and displays them.")
 
         self.layer_three.addWidget(self.dex_box)
-        # button_layout = QHBoxLayout()
-        # button_layout.addWidget(self.add_to_party_btn)
-        # button_layout.addWidget(self.update_party_data_btn)
-        # button_layout.addWidget(self.ivs_btn)
-        # self.layer_three.addLayout(button_layout)
-        # button_layout.setContentsMargins(17, 0, 0, 0)
         self.layer_three.addWidget(self.add_to_party_btn)
         self.layer_three.addWidget(self.update_party_data_btn)
         self.layer_three.addWidget(self.ivs_btn)
@@ -250,10 +234,6 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
         # Add them
 
         self.layer_four.addWidget(self.encounter_box)
-        # button_layout = QHBoxLayout()
-        # button_layout.setContentsMargins(17, 0, 0, 0)
-        # button_layout.addWidget(self.add_ev_btn)
-        self.layer_four.addWidget(self.add_ev_btn)
         self.master_layout.addLayout(self.layer_four)
 
     def reset_entries(self):
@@ -365,7 +345,6 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
         nature = self.nature_box.currentText()
         stats = ["HP", "Attack", "Defense", "Special Attack", "Special Defense", "Speed"]
         for item in range(len(stats)):
-            # print(natures_util.assert_nature_modifier(nature, self.stat_labels[item].text()))
             if natures_util.assert_nature_modifier(nature, stats[item]) == 1.1:
                 self.stat_labels[item].setStyleSheet("color: #d7a3a7;")
             elif natures_util.assert_nature_modifier(nature, stats[item]) == 0.9:
@@ -382,7 +361,6 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
         else:
             stats = ["HP", "Attack", "Defense", "Special Attack", "Special Defense", "Speed"]
             for item in range(len(stats)):
-                # print(natures_util.assert_nature_modifier(nature, self.stat_labels[item].text()))
                 if natures_util.assert_nature_modifier(nature, stats[item]) == 1.1:
                     self.stat_labels[item].setStyleSheet("color: #d7a3a7;")
                 elif natures_util.assert_nature_modifier(nature, stats[item]) == 0.9:
@@ -605,12 +583,3 @@ if __name__ == '__main__':
         app.setStyleSheet(file.read())
     window = App()
     sys.exit(app.exec())
-
-
-# TODO
-# tweak visuals (IN PROGRESS)
-    # Highlight when IV is 100% precise
-# run & test   
-# Second window for advanced data
-# If idle for 2 seconds --> save party_db
-# Resize window --> disable!
