@@ -67,7 +67,7 @@ class Database:
     def get_evolution(self, nick):
         name = self.get_real_name(nick)
         dex = self.find_dex_number(name)
-        return self.dex[dex]["evolution"]
+        return list(self.dex[dex]["evolutions"].keys())
 
     def get_ev_yields(self, name):
         try:
