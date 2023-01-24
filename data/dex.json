@@ -4,12 +4,6 @@
         "types": [
             "Grass"
         ],
-        "abilities": [
-            "Overgrow"
-        ],
-        "hidden_abilities": [
-            "Leaf Guard"
-        ],
         "base_stats": [
             "45",
             "49",
@@ -26,18 +20,20 @@
             "1",
             "0"
         ],
-        "evolution": "Bayleef"
+        "evolutions": {
+            "Bayleef": {
+                "time": null,
+                "item": null,
+                "level": 16,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "002": {
         "name": "Bayleef",
         "types": [
             "Grass"
-        ],
-        "abilities": [
-            "Overgrow"
-        ],
-        "hidden_abilities": [
-            "Leaf Guard"
         ],
         "base_stats": [
             "60",
@@ -55,18 +51,20 @@
             "1",
             "0"
         ],
-        "evolution": "Meganium"
+        "evolutions": {
+            "Meganium": {
+                "time": null,
+                "item": null,
+                "level": 32,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "003": {
         "name": "Meganium",
         "types": [
             "Grass"
-        ],
-        "abilities": [
-            "Overgrow"
-        ],
-        "hidden_abilities": [
-            "Leaf Guard"
         ],
         "base_stats": [
             "80",
@@ -84,18 +82,14 @@
             "2",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "004": {
         "name": "Cyndaquil",
         "types": [
             "Fire"
-        ],
-        "abilities": [
-            "Blaze"
-        ],
-        "hidden_abilities": [
-            "Flash Fire"
         ],
         "base_stats": [
             "39",
@@ -113,18 +107,20 @@
             "0",
             "1"
         ],
-        "evolution": "Quilava"
+        "evolutions": {
+            "Quilava": {
+                "time": null,
+                "item": null,
+                "level": 14,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "005": {
         "name": "Quilava",
         "types": [
             "Fire"
-        ],
-        "abilities": [
-            "Blaze"
-        ],
-        "hidden_abilities": [
-            "Flash Fire"
         ],
         "base_stats": [
             "58",
@@ -142,19 +138,20 @@
             "0",
             "1"
         ],
-        "evolution": "Typhlosion"
+        "evolutions": {
+            "Typhlosion": {
+                "time": null,
+                "item": null,
+                "level": 36,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "006": {
         "name": "Typhlosion",
         "types": [
             "Fire"
-        ],
-        "abilities": [
-            "Blaze",
-            ""
-        ],
-        "hidden_abilities": [
-            "Flash Fire"
         ],
         "base_stats": [
             "78",
@@ -172,18 +169,14 @@
             "0",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+           
+        }
     },
     "007": {
         "name": "Totodile",
         "types": [
             "Water"
-        ],
-        "abilities": [
-            "Torrent"
-        ],
-        "hidden_abilities": [
-            "Sheer Force"
         ],
         "base_stats": [
             "50",
@@ -201,18 +194,20 @@
             "0",
             "0"
         ],
-        "evolution": "Croconaw"
+        "evolutions": {
+            "Croconaw": {
+                "time": null,
+                "item": null,
+                "level": 18,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "008": {
         "name": "Croconaw",
         "types": [
             "Water"
-        ],
-        "abilities": [
-            "Torrent"
-        ],
-        "hidden_abilities": [
-            "Sheer Force"
         ],
         "base_stats": [
             "65",
@@ -230,18 +225,20 @@
             "0",
             "0"
         ],
-        "evolution": "Feraligatr"
+        "evolutions": {
+            "Feraligatr": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "009": {
         "name": "Feraligatr",
         "types": [
             "Water"
-        ],
-        "abilities": [
-            "Torrent"
-        ],
-        "hidden_abilities": [
-            "Sheer Force"
         ],
         "base_stats": [
             "85",
@@ -259,20 +256,15 @@
             "0",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "010": {
         "name": "Pidgey",
         "types": [
             "Normal",
             "Flying"
-        ],
-        "abilities": [
-            "Keen Eye",
-            "Tangled Feet"
-        ],
-        "hidden_abilities": [
-            "Big Pecks"
         ],
         "base_stats": [
             "40",
@@ -290,20 +282,21 @@
             "0",
             "1"
         ],
-        "evolution": "Pidgeotto"
+        "evolutions": {
+            "Pidgeotto": {
+                "time": null,
+                "item": null,
+                "level": 18,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "011": {
         "name": "Pidgeotto",
         "types": [
             "Normal",
             "Flying"
-        ],
-        "abilities": [
-            "Keen Eye",
-            "Tangled Feet"
-        ],
-        "hidden_abilities": [
-            "Big Pecks"
         ],
         "base_stats": [
             "63",
@@ -321,20 +314,21 @@
             "0",
             "2"
         ],
-        "evolution": "Pidgeot"
+        "evolutions": {
+            "Pidgeot": {
+                "time": null,
+                "item": null,
+                "level": 36,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "012": {
         "name": "Pidgeot",
         "types": [
             "Normal",
             "Flying"
-        ],
-        "abilities": [
-            "Keen Eye",
-            "Tangled Feet"
-        ],
-        "hidden_abilities": [
-            "Big Pecks"
         ],
         "base_stats": [
             "83",
@@ -352,19 +346,15 @@
             "0",
             "3"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "013": {
         "name": "Spearow",
         "types": [
             "Normal",
             "Flying"
-        ],
-        "abilities": [
-            "Keen Eye"
-        ],
-        "hidden_abilities": [
-            "Sniper"
         ],
         "base_stats": [
             "40",
@@ -382,19 +372,21 @@
             "0",
             "1"
         ],
-        "evolution": "Fearow"
+        "evolutions": {
+            "Fearow": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "014": {
         "name": "Fearow",
         "types": [
             "Normal",
             "Flying"
-        ],
-        "abilities": [
-            "Keen Eye"
-        ],
-        "hidden_abilities": [
-            "Sniper"
         ],
         "base_stats": [
             "65",
@@ -412,20 +404,15 @@
             "0",
             "2"
         ],
-        "evolution": ""
+        "evolutions": {
+           
+        }
     },
     "015": {
         "name": "Hoothoot",
         "types": [
             "Normal",
             "Flying"
-        ],
-        "abilities": [
-            "Insomnia",
-            "Keen Eye"
-        ],
-        "hidden_abilities": [
-            "Tinted Lens"
         ],
         "base_stats": [
             "60",
@@ -443,20 +430,21 @@
             "0",
             "0"
         ],
-        "evolution": "Noctowl"
+        "evolutions": {
+            "Noctowl": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "016": {
         "name": "Noctowl",
         "types": [
             "Normal",
             "Flying"
-        ],
-        "abilities": [
-            "Insomnia",
-            "Keen Eye"
-        ],
-        "hidden_abilities": [
-            "Tinted Lens"
         ],
         "base_stats": [
             "100",
@@ -474,19 +462,14 @@
             "0",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "017": {
         "name": "Rattata",
         "types": [
             "Normal"
-        ],
-        "abilities": [
-            "Run Away",
-            "Guts"
-        ],
-        "hidden_abilities": [
-            "Hustle"
         ],
         "base_stats": [
             "30",
@@ -504,19 +487,20 @@
             "0",
             "1"
         ],
-        "evolution": "Raticate"
+        "evolutions": {
+            "Raticate": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "018": {
         "name": "Raticate",
         "types": [
             "Normal"
-        ],
-        "abilities": [
-            "Run Away",
-            "Guts"
-        ],
-        "hidden_abilities": [
-            "Hustle"
         ],
         "base_stats": [
             "55",
@@ -534,19 +518,14 @@
             "0",
             "2"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "019": {
         "name": "Sentret",
         "types": [
             "Normal"
-        ],
-        "abilities": [
-            "Run Away",
-            "Keen Eye"
-        ],
-        "hidden_abilities": [
-            "Frisk"
         ],
         "base_stats": [
             "35",
@@ -564,19 +543,20 @@
             "0",
             "0"
         ],
-        "evolution": "Furret"
+        "evolutions": {
+            "Furret": {
+                "time": null,
+                "item": null,
+                "level": 15,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "020": {
         "name": "Furret",
         "types": [
             "Normal"
-        ],
-        "abilities": [
-            "Run Away",
-            "Keen Eye"
-        ],
-        "hidden_abilities": [
-            "Frisk"
         ],
         "base_stats": [
             "85",
@@ -594,18 +574,14 @@
             "0",
             "2"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "021": {
         "name": "Pichu",
         "types": [
             "Electric"
-        ],
-        "abilities": [
-            "Static"
-        ],
-        "hidden_abilities": [
-            "Lightning Rod"
         ],
         "base_stats": [
             "20",
@@ -623,18 +599,20 @@
             "0",
             "1"
         ],
-        "evolution": "Pikachu"
+        "evolutions": {
+            "Pikachu": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": 220,
+                "trade": false
+            }
+        }
     },
     "022": {
         "name": "Pikachu",
         "types": [
             "Electric"
-        ],
-        "abilities": [
-            "Static"
-        ],
-        "hidden_abilities": [
-            "Lightning Rod"
         ],
         "base_stats": [
             "35",
@@ -652,18 +630,20 @@
             "0",
             "2"
         ],
-        "evolution": "Raichu"
+        "evolutions": {
+            "Raichu": {
+                "time": null,
+                "item": "Thunder Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "023": {
         "name": "Raichu",
         "types": [
             "Electric"
-        ],
-        "abilities": [
-            "Static"
-        ],
-        "hidden_abilities": [
-            "Lightning Rod"
         ],
         "base_stats": [
             "60",
@@ -681,18 +661,14 @@
             "0",
             "3"
         ],
-        "evolution": ""
+        "evolutions": {
+        
+        }
     },
     "024": {
         "name": "Caterpie",
         "types": [
             "Bug"
-        ],
-        "abilities": [
-            "Shield Dust"
-        ],
-        "hidden_abilities": [
-            "Run Away"
         ],
         "base_stats": [
             "45",
@@ -710,17 +686,21 @@
             "0",
             "0"
         ],
-        "evolution": "Metapod"
+        "evolutions": {
+            "Metapod": {
+                "time": null,
+                "item": null,
+                "level": 7,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "025": {
         "name": "Metapod",
         "types": [
             "Bug"
         ],
-        "abilities": [
-            "Shed Skin"
-        ],
-        "hidden_abilities": [],
         "base_stats": [
             "50",
             "20",
@@ -737,19 +717,21 @@
             "0",
             "0"
         ],
-        "evolution": "Butterfree"
+        "evolutions": {
+            "Butterfree": {
+                "time": null,
+                "item": null,
+                "level": 10,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "026": {
         "name": "Butterfree",
         "types": [
             "Bug",
             "Flying"
-        ],
-        "abilities": [
-            "Compound Eyes"
-        ],
-        "hidden_abilities": [
-            "Tinted Lens"
         ],
         "base_stats": [
             "60",
@@ -767,19 +749,15 @@
             "1",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "027": {
         "name": "Weedle",
         "types": [
             "Bug",
             "Poison"
-        ],
-        "abilities": [
-            "Shield Dust"
-        ],
-        "hidden_abilities": [
-            "Run Away"
         ],
         "base_stats": [
             "40",
@@ -797,7 +775,15 @@
             "0",
             "1"
         ],
-        "evolution": "Kakuna"
+        "evolutions": {
+            "Kakuna": {
+                "time": null,
+                "item": null,
+                "level": 7,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "028": {
         "name": "Kakuna",
@@ -805,10 +791,6 @@
             "Bug",
             "Poison"
         ],
-        "abilities": [
-            "Shed Skin"
-        ],
-        "hidden_abilities": [],
         "base_stats": [
             "45",
             "25",
@@ -825,19 +807,21 @@
             "0",
             "0"
         ],
-        "evolution": "Beedrill"
+        "evolutions": {
+            "Beedrill": {
+                "time": null,
+                "item": null,
+                "level": 10,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "029": {
         "name": "Beedrill",
         "types": [
             "Bug",
             "Poison"
-        ],
-        "abilities": [
-            "Swarm"
-        ],
-        "hidden_abilities": [
-            "Sniper"
         ],
         "base_stats": [
             "65",
@@ -855,20 +839,15 @@
             "1",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "030": {
         "name": "Ledyba",
         "types": [
             "Bug",
             "Flying"
-        ],
-        "abilities": [
-            "Swarm",
-            "Early Bird"
-        ],
-        "hidden_abilities": [
-            "Rattled"
         ],
         "base_stats": [
             "40",
@@ -886,19 +865,21 @@
             "1",
             "0"
         ],
-        "evolution": "Ledian"
+        "evolutions": {
+            "Ledian": {
+                "time": null,
+                "item": null,
+                "level": 18,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "031": {
         "name": "Ledian",
         "types": [
             "Bug",
             "Flying"
-        ],
-        "abilities": [
-            "Swarm"
-        ],
-        "hidden_abilities": [
-            "Early Bird"
         ],
         "base_stats": [
             "55",
@@ -916,20 +897,15 @@
             "2",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "032": {
         "name": "Spinarak",
         "types": [
             "Bug",
             "Poison"
-        ],
-        "abilities": [
-            "Swarm",
-            "Insomnia"
-        ],
-        "hidden_abilities": [
-            "Sniper"
         ],
         "base_stats": [
             "40",
@@ -947,20 +923,21 @@
             "0",
             "0"
         ],
-        "evolution": "Ariados"
+        "evolutions": {
+            "Ariados": {
+                "time": null,
+                "item": null,
+                "level": 22,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "033": {
         "name": "Ariados",
         "types": [
             "Bug",
             "Poison"
-        ],
-        "abilities": [
-            "Swarm",
-            "Insomnia"
-        ],
-        "hidden_abilities": [
-            "Sniper"
         ],
         "base_stats": [
             "70",
@@ -978,20 +955,15 @@
             "0",
             "0"
         ],
-        "evolution": ""
+        "evolutions": {
+            
+        }
     },
     "034": {
         "name": "Geodude",
         "types": [
             "Rock",
             "Ground"
-        ],
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "hidden_abilities": [
-            "Sand Veil"
         ],
         "base_stats": [
             "40",
@@ -1009,19 +981,79 @@
             "0",
             "0"
         ],
-        "evolution": "Graveler"
+        "evolutions": {
+            "Graveler": {
+                "time": null,
+                "item": null,
+                "level": 25,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "035": {
+        "name": "Graveler",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "base_stats": [
+            "55",
+            "95",
+            "115",
+            "45",
+            "45",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Golem": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "036": {
+        "name": "Golem",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "base_stats": [
+            "80",
+            "120",
+            "130",
+            "55",
+            "65",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "3",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
     },
     "037": {
         "name": "Zubat",
         "types": [
             "Poison",
             "Flying"
-        ],
-        "abilities": [
-            "Inner Focus"
-        ],
-        "hidden_abilities": [
-            "Infiltrator"
         ],
         "base_stats": [
             "40",
@@ -1039,19 +1071,368 @@
             "0",
             "1"
         ],
-        "evolution": "Golbat"
+        "evolutions": {
+            "Golbat": {
+                "time": null,
+                "item": null,
+                "level": 22,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "038": {
+        "name": "Golbat",
+        "types": [
+            "Poison",
+            "Flying"
+        ],
+        "base_stats": [
+            "75",
+            "80",
+            "70",
+            "65",
+            "75",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            "Crobat": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": 220,
+                "trade": false
+            }
+        }
+    },
+    "039": {
+        "name": "Crobat",
+        "types": [
+            "Poison",
+            "Flying"
+        ],
+        "base_stats": [
+            "85",
+            "90",
+            "80",
+            "70",
+            "80",
+            "130"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "3"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "040": {
+        "name": "Cleffa",
+        "types": [
+            "Fairy"
+        ],
+        "base_stats": [
+            "50",
+            "25",
+            "28",
+            "45",
+            "55",
+            "15"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Clefairy": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": 220,
+                "trade": false
+            }
+        }
+    },
+    "041": {
+        "name": "Clefairy",
+        "types": [
+            "Fairy"
+        ],
+        "base_stats": [
+            "70",
+            "45",
+            "48",
+            "60",
+            "65",
+            "35"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Clefable": {
+                "time": null,
+                "item": "Moon Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "042": {
+        "name": "Clefable",
+        "types": [
+            "Fairy"
+        ],
+        "base_stats": [
+            "95",
+            "70",
+            "73",
+            "95",
+            "90",
+            "60"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "043": {
+        "name": "Igglybuff",
+        "types": [
+            "Normal",
+            "Fairy"
+        ],
+        "base_stats": [
+            "90",
+            "30",
+            "15",
+            "40",
+            "20",
+            "15"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Jigglypuff": {
+                "time": null,
+                "item": null,
+                "level": 220,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "044": {
+        "name": "Jigglypuff",
+        "types": [
+            "Normal",
+            "Fairy"
+        ],
+        "base_stats": [
+            "115",
+            "45",
+            "20",
+            "45",
+            "25",
+            "20"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Wigglytuff": {
+                "time": null,
+                "item": "Moon Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "045": {
+        "name": "Wigglytuff",
+        "types": [
+            "Normal",
+            "Fairy"
+        ],
+        "base_stats": [
+            "140",
+            "70",
+            "45",
+            "85",
+            "50",
+            "45"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "046": {
+        "name": "Togepi",
+        "types": [
+            "Fairy"
+        ],
+        "base_stats": [
+            "35",
+            "20",
+            "65",
+            "40",
+            "65",
+            "20"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Togetic": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": 220,
+                "trade": false
+            }
+        }
+    },
+    "047": {
+        "name": "Togetic",
+        "types": [
+            "Fairy",
+            "Flying"
+        ],
+        "base_stats": [
+            "55",
+            "40",
+            "85",
+            "80",
+            "105",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "048": {
+        "name": "Sandshrew",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "50",
+            "75",
+            "85",
+            "20",
+            "30",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Sandslash": {
+                "time": null,
+                "item": null,
+                "level": 22,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "049": {
+        "name": "Sandslash",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "75",
+            "100",
+            "110",
+            "45",
+            "55",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
     },
     "050": {
         "name": "Ekans",
         "types": [
             "Poison"
-        ],
-        "abilities": [
-            "Intimidate",
-            "Shed Skin"
-        ],
-        "hidden_abilities": [
-            "Unnerve"
         ],
         "base_stats": [
             "35",
@@ -1069,18 +1450,70 @@
             "0",
             "0"
         ],
-        "evolution": "Arbok"
+        "evolutions": {
+            "Arbok": {
+                "time": null,
+                "item": null,
+                "level": 22,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "051": {
+        "name": "Arbok",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "60",
+            "85",
+            "69",
+            "65",
+            "79",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "052": {
+        "name": "Dunsparce",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "100",
+            "70",
+            "70",
+            "65",
+            "65",
+            "45"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
     },
     "053": {
         "name": "Mareep",
         "types": [
             "Electric"
-        ],
-        "abilities": [
-            "Static"
-        ],
-        "hidden_abilities": [
-            "Plus"
         ],
         "base_stats": [
             "55",
@@ -1098,7 +1531,129 @@
             "0",
             "0"
         ],
-        "evolution": "Flaafy"
+        "evolutions": {
+            "Flaaffy": {
+                "time": null,
+                "item": null,
+                "level": 15,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "054": {
+        "name": "Flaaffy",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "70",
+            "55",
+            "55",
+            "80",
+            "60",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Ampharos": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "055": {
+        "name": "Ampharos",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "90",
+            "75",
+            "75",
+            "115",
+            "90",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "056": {
+        "name": "Wooper",
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "base_stats": [
+            "55",
+            "45",
+            "45",
+            "25",
+            "25",
+            "15"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Quagsire": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "057": {
+        "name": "Quagsire",
+        "types": [
+            "Water",
+            "Ground"
+        ],
+        "base_stats": [
+            "95",
+            "85",
+            "85",
+            "65",
+            "65",
+            "35"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
     },
     "058": {
         "name": "Gastly",
@@ -1106,10 +1661,6 @@
             "Ghost",
             "Poison"
         ],
-        "abilities": [
-            "Levitate"
-        ],
-        "hidden_abilities": [],
         "base_stats": [
             "30",
             "35",
@@ -1126,7 +1677,15 @@
             "0",
             "0"
         ],
-        "evolution": "Haunter"
+        "evolutions": {
+            "Haunter": {
+                "time": null,
+                "item": null,
+                "level": 25,
+                "happiness": null,
+                "trade": false
+            }
+        }
     },
     "059": {
         "name": "Haunter",
@@ -1134,10 +1693,6 @@
             "Ghost",
             "Poison"
         ],
-        "abilities": [
-            "Levitate"
-        ],
-        "hidden_abilities": [],
         "base_stats": [
             "45",
             "50",
@@ -1154,20 +1709,72 @@
             "0",
             "0"
         ],
-        "evolution": "Gengar"
+        "evolutions": {
+            "Gengar": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "060": {
+        "name": "Gengar",
+        "types": [
+            "Ghost",
+            "Poison"
+        ],
+        "base_stats": [
+            "60",
+            "65",
+            "60",
+            "130",
+            "75",
+            "110"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "061": {
+        "name": "Unown",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "48",
+            "72",
+            "48",
+            "72",
+            "48",
+            "48"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
     },
     "062": {
         "name": "Onix",
         "types": [
             "Rock",
             "Ground"
-        ],
-        "abilities": [
-            "Rock Head",
-            "Sturdy"
-        ],
-        "hidden_abilities": [
-            "Weak Armor"
         ],
         "base_stats": [
             "35",
@@ -1185,19 +1792,47 @@
             "0",
             "0"
         ],
-        "evolution": "Steelix"
+        "evolutions": {
+            "Steelix": {
+                "time": null,
+                "item": "Metal Coat",
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "063": {
+        "name": "Steelix",
+        "types": [
+            "Steel",
+            "Ground"
+        ],
+        "base_stats": [
+            "75",
+            "85",
+            "200",
+            "55",
+            "65",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
     },
     "064": {
         "name": "Bellsprout",
         "types": [
             "Grass",
             "Poison"
-        ],
-        "abilities": [
-            "Chlorophyll"
-        ],
-        "hidden_abilities": [
-            "Gluttony"
         ],
         "base_stats": [
             "50",
@@ -1215,20 +1850,79 @@
             "0",
             "0"
         ],
-        "evolution": "Weepinbell"
+        "evolutions": {
+            "Weepinbell": {
+                "time": null,
+                "item": null,
+                "level": 21,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "065": {
+        "name": "Weepinbell",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "65",
+            "90",
+            "50",
+            "85",
+            "45",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Victreebel": {
+                "time": null,
+                "item": "Leaf Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "066": {
+        "name": "Victreebel",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "80",
+            "105",
+            "65",
+            "100",
+            "60",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
     },
     "067": {
         "name": "Hoppip",
         "types": [
             "Grass",
             "Flying"
-        ],
-        "abilities": [
-            "Chlorophyll",
-            "Leaf Guard"
-        ],
-        "hidden_abilities": [
-            "Infiltrator"
         ],
         "base_stats": [
             "35",
@@ -1246,6 +1940,5354 @@
             "1",
             "0"
         ],
-        "evolution": "Skiploom"
+        "evolutions": {
+            "Skiploom": {
+                "time": null,
+                "item": null,
+                "level": 18,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "068": {
+        "name": "Skiploom",
+        "types": [
+            "Grass",
+            "Flying"
+        ],
+        "base_stats": [
+            "55",
+            "45",
+            "50",
+            "45",
+            "65",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            "Jumpluff": {
+                "time": null,
+                "item": null,
+                "level": 27,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "069": {
+        "name": "Jumpluff",
+        "types": [
+            "Grass",
+            "Flying"
+        ],
+        "base_stats": [
+            "75",
+            "55",
+            "70",
+            "55",
+            "85",
+            "110"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "3"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "070": {
+        "name": "Paras",
+        "types": [
+            "Bug",
+            "Grass"
+        ],
+        "base_stats": [
+            "35",
+            "70",
+            "55",
+            "45",
+            "55",
+            "25"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Parasect": {
+                "time": null,
+                "item": null,
+                "level": 24,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "071": {
+        "name": "Parasect",
+        "types": [
+            "Bug",
+            "Grass"
+        ],
+        "base_stats": [
+            "60",
+            "95",
+            "80",
+            "60",
+            "80",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "072": {
+        "name": "Poliwag",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "40",
+            "50",
+            "40",
+            "40",
+            "40",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Poliwhirl": {
+                "time": null,
+                "item": null,
+                "level": 25,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "073": {
+        "name": "Poliwhirl",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "65",
+            "65",
+            "65",
+            "50",
+            "50",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            "Poliwrath": {
+                "time": null,
+                "item": "Water Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            },
+            "Politoed": {
+                "time": null,
+                "item": "King's Rock",
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "074": {
+        "name": "Poliwrath",
+        "types": [
+            "Water",
+            "Fighting"
+        ],
+        "base_stats": [
+            "90",
+            "85",
+            "95",
+            "70",
+            "90",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "3",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "075": {
+        "name": "Politoed",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "90",
+            "75",
+            "75",
+            "90",
+            "100",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "076": {
+        "name": "Magikarp",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "20",
+            "10",
+            "55",
+            "15",
+            "20",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Gyarados": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "077": {
+        "name": "Gyarados",
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "base_stats": [
+            "95",
+            "125",
+            "79",
+            "60",
+            "100",
+            "81"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "078": {
+        "name": "Goldeen",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "45",
+            "67",
+            "60",
+            "35",
+            "50",
+            "63"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Seaking": {
+                "time": null,
+                "item": null,
+                "level": 33,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "079": {
+        "name": "Seaking",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "80",
+            "92",
+            "65",
+            "65",
+            "80",
+            "68"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "080": {
+        "name": "Slowpoke",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "base_stats": [
+            "90",
+            "65",
+            "65",
+            "40",
+            "40",
+            "15"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Slowbro": {
+                "time": null,
+                "item": null,
+                "level": 37,
+                "happiness": null,
+                "trade": false
+            },
+            "Slowking": {
+                "time": null,
+                "item": "King's Rock",
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "081": {
+        "name": "Slowbro",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "base_stats": [
+            "95",
+            "75",
+            "110",
+            "100",
+            "80",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "082": {
+        "name": "Slowking",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "base_stats": [
+            "95",
+            "75",
+            "80",
+            "100",
+            "110",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "083": {
+        "name": "Oddish",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "45",
+            "50",
+            "55",
+            "75",
+            "65",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Gloom": {
+                "time": null,
+                "item": null,
+                "level": 21,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "084": {
+        "name": "Gloom",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "60",
+            "65",
+            "70",
+            "85",
+            "75",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Vileplume": {
+                "time": null,
+                "item": "Leaf Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            },
+            "Bellossom": {
+                "time": null,
+                "item": "Sun Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "085": {
+        "name": "Vileplume",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "75",
+            "80",
+            "85",
+            "100",
+            "90",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "086": {
+        "name": "Bellossom",
+        "types": [
+            "Grass"
+        ],
+        "base_stats": [
+            "75",
+            "80",
+            "85",
+            "90",
+            "100",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "087": {
+        "name": "Drowzee",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "60",
+            "48",
+            "45",
+            "43",
+            "90",
+            "42"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Hypno": {
+                "time": null,
+                "item": null,
+                "level": 26,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "088": {
+        "name": "Hypno",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "85",
+            "73",
+            "70",
+            "73",
+            "115",
+            "67"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "089": {
+        "name": "Abra",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "25",
+            "20",
+            "15",
+            "105",
+            "55",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Kadabra": {
+                "time": null,
+                "item": null,
+                "level": 16,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "090": {
+        "name": "Kadabra",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "40",
+            "35",
+            "30",
+            "120",
+            "70",
+            "105"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Alakazam": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "091": {
+        "name": "Alakazam",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "55",
+            "50",
+            "45",
+            "135",
+            "85",
+            "120"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "092": {
+        "name": "Ditto",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "48",
+            "48",
+            "48",
+            "48",
+            "48",
+            "48"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "093": {
+        "name": "Pineco",
+        "types": [
+            "Bug"
+        ],
+        "base_stats": [
+            "50",
+            "65",
+            "90",
+            "35",
+            "35",
+            "15"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Forretress": {
+                "time": null,
+                "item": null,
+                "level": 31,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "094": {
+        "name": "Forretress",
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "base_stats": [
+            "75",
+            "90",
+            "140",
+            "60",
+            "60",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "095": {
+        "name": "Nidoran (F)",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "55",
+            "47",
+            "52",
+            "40",
+            "40",
+            "41"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Nidorina": {
+                "time": null,
+                "item": null,
+                "level": 16,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "096": {
+        "name": "Nidorina",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "70",
+            "62",
+            "67",
+            "55",
+            "55",
+            "56"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Nidoqueen": {
+                "time": null,
+                "item": "Moon Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "097": {
+        "name": "Nidoqueen",
+        "types": [
+            "Poison",
+            "Ground"
+        ],
+        "base_stats": [
+            "90",
+            "82",
+            "87",
+            "75",
+            "85",
+            "76"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "098": {
+        "name": "Nidoran (M)",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "46",
+            "57",
+            "40",
+            "40",
+            "40",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Nidorino": {
+                "time": null,
+                "item": null,
+                "level": 16,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "099": {
+        "name": "Nidorino",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "61",
+            "72",
+            "57",
+            "55",
+            "55",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Nidoking": {
+                "time": null,
+                "item": "Moon Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "100": {
+        "name": "Nidoking",
+        "types": [
+            "Poison",
+            "Ground"
+        ],
+        "base_stats": [
+            "81",
+            "92",
+            "77",
+            "85",
+            "75",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "101": {
+        "name": "Yanma",
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "base_stats": [
+            "65",
+            "65",
+            "45",
+            "75",
+            "45",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Yanmega": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": false,
+                "move": "Ancient Power"
+            }
+        }
+    },
+    "102": {
+        "name": "Yanmega",
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "base_stats": [
+            "86",
+            "76",
+            "86",
+            "116",
+            "56",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "103": {
+        "name": "Sunkern",
+        "types": [
+            "Grass"
+        ],
+        "base_stats": [
+            "30",
+            "30",
+            "30",
+            "30",
+            "30",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Sunflora": {
+                "time": null,
+                "item": "Sun Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "104": {
+        "name": "Sunflora",
+        "types": [
+            "Grass"
+        ],
+        "base_stats": [
+            "75",
+            "75",
+            "55",
+            "105",
+            "85",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "105": {
+        "name": "Exeggcute",
+        "types": [
+            "Grass",
+            "Psychic"
+        ],
+        "base_stats": [
+            "60",
+            "40",
+            "80",
+            "60",
+            "45",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Exeggutor": {
+                "time": null,
+                "item": "Leaf Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "106": {
+        "name": "Exeggutor",
+        "types": [
+            "Grass",
+            "Psychic"
+        ],
+        "base_stats": [
+            "95",
+            "95",
+            "85",
+            "125",
+            "65",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "107": {
+        "name": "Sudowoodo",
+        "types": [
+            "Rock"
+        ],
+        "base_stats": [
+            "70",
+            "100",
+            "115",
+            "30",
+            "65",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "108": {
+        "name": "Wobbuffet",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "190",
+            "33",
+            "58",
+            "33",
+            "58",
+            "33"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "109": {
+        "name": "Venonat",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "base_stats": [
+            "60",
+            "55",
+            "50",
+            "40",
+            "55",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Venomoth": {
+                "time": null,
+                "item": null,
+                "level": 31,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "110": {
+        "name": "Venomoth",
+        "types": [
+            "Bug",
+            "Poison"
+        ],
+        "base_stats": [
+            "70",
+            "65",
+            "60",
+            "90",
+            "75",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "111": {
+        "name": "Scyther",
+        "types": [
+            "Bug",
+            "Flying"
+        ],
+        "base_stats": [
+            "70",
+            "110",
+            "80",
+            "55",
+            "80",
+            "105"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Scizor": {
+                "time": null,
+                "item": "Metal Coat",
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "112": {
+        "name": "Scizor",
+        "types": [
+            "Bug",
+            "Steel"
+        ],
+        "base_stats": [
+            "70",
+            "130",
+            "100",
+            "55",
+            "80",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "113": {
+        "name": "Pinsir",
+        "types": [
+            "Bug"
+        ],
+        "base_stats": [
+            "65",
+            "125",
+            "100",
+            "55",
+            "70",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "114": {
+        "name": "Heracross",
+        "types": [
+            "Bug",
+            "Fighting"
+        ],
+        "base_stats": [
+            "80",
+            "125",
+            "75",
+            "40",
+            "95",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "115": {
+        "name": "Koffing",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "40",
+            "65",
+            "95",
+            "60",
+            "45",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Weezing": {
+                "time": null,
+                "item": null,
+                "level": 35,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "116": {
+        "name": "Weezing",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "65",
+            "90",
+            "120",
+            "85",
+            "70",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "117": {
+        "name": "Grimer",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "80",
+            "80",
+            "50",
+            "40",
+            "50",
+            "25"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Muk": {
+                "time": null,
+                "item": null,
+                "level": 38,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "118": {
+        "name": "Muk",
+        "types": [
+            "Poison"
+        ],
+        "base_stats": [
+            "105",
+            "105",
+            "75",
+            "65",
+            "100",
+            "50"
+        ],
+        "ev_yields": [
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "119": {
+        "name": "Magnemite",
+        "types": [
+            "Electric",
+            "Steel"
+        ],
+        "base_stats": [
+            "25",
+            "35",
+            "70",
+            "95",
+            "55",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Magneton": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "120": {
+        "name": "Magneton",
+        "types": [
+            "Electric",
+            "Steel"
+        ],
+        "base_stats": [
+            "50",
+            "60",
+            "95",
+            "120",
+            "70",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "121": {
+        "name": "Voltorb",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "40",
+            "30",
+            "50",
+            "55",
+            "55",
+            "100"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Electrode": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "122": {
+        "name": "Electrode",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "60",
+            "50",
+            "70",
+            "80",
+            "80",
+            "140"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "123": {
+        "name": "Aipom",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "55",
+            "70",
+            "55",
+            "40",
+            "55",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Ambipom": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": false,
+                "move": "Double Hit"
+            }
+        }
+    },
+    "124": {
+        "name": "Ambipom",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "75",
+            "100",
+            "66",
+            "60",
+            "66",
+            "115"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "125": {
+        "name": "Snubbull",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "60",
+            "80",
+            "50",
+            "40",
+            "40",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Granbull": {
+                "time": null,
+                "item": null,
+                "level": 23,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "126": {
+        "name": "Granbull",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "90",
+            "120",
+            "75",
+            "60",
+            "60",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "127": {
+        "name": "Vulpix",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "38",
+            "41",
+            "40",
+            "50",
+            "65",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Ninetales": {
+                "time": null,
+                "item": "Fire Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "128": {
+        "name": "Ninetales",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "73",
+            "76",
+            "75",
+            "81",
+            "100",
+            "100"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "1"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "129": {
+        "name": "Growlithe",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "55",
+            "70",
+            "45",
+            "70",
+            "50",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Arcanine": {
+                "time": null,
+                "item": "Fire Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "130": {
+        "name": "Arcanine",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "90",
+            "110",
+            "80",
+            "100",
+            "80",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "131": {
+        "name": "Stantler",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "73",
+            "95",
+            "62",
+            "85",
+            "65",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "132": {
+        "name": "Marill",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "70",
+            "20",
+            "50",
+            "20",
+            "50",
+            "40"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Azumarill": {
+                "time": null,
+                "item": null,
+                "level": 18,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "133": {
+        "name": "Azumarill",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "100",
+            "50",
+            "80",
+            "50",
+            "80",
+            "50"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "134": {
+        "name": "Diglett",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "10",
+            "55",
+            "25",
+            "35",
+            "45",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Dugtrio": {
+                "time": null,
+                "item": null,
+                "level": 26,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "135": {
+        "name": "Dugtrio",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "35",
+            "80",
+            "50",
+            "50",
+            "70",
+            "120"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "136": {
+        "name": "Mankey",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "40",
+            "80",
+            "35",
+            "35",
+            "45",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Primeape": {
+                "time": null,
+                "item": null,
+                "level": 28,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "137": {
+        "name": "Primeape",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "65",
+            "105",
+            "60",
+            "60",
+            "70",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "138": {
+        "name": "Meowth",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "40",
+            "45",
+            "35",
+            "40",
+            "40",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Persian": {
+                "time": null,
+                "item": null,
+                "level": 28,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "139": {
+        "name": "Persian",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "65",
+            "70",
+            "60",
+            "65",
+            "65",
+            "115"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "140": {
+        "name": "Psyduck",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "50",
+            "52",
+            "48",
+            "65",
+            "50",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Golduck": {
+                "time": null,
+                "item": null,
+                "level": 33,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "141": {
+        "name": "Golduck",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "80",
+            "82",
+            "78",
+            "95",
+            "80",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "142": {
+        "name": "Machop",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "70",
+            "80",
+            "50",
+            "35",
+            "35",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Machoke": {
+                "time": null,
+                "item": null,
+                "level": 28,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "143": {
+        "name": "Machoke",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "80",
+            "100",
+            "70",
+            "50",
+            "60",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Machamp": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "144": {
+        "name": "Machamp",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "90",
+            "130",
+            "80",
+            "65",
+            "85",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "145": {
+        "name": "Tyrogue",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "35",
+            "35",
+            "35",
+            "35",
+            "35",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Hitmonchan": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            },
+            "Hitmonlee": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            },
+            "Hitmontop": {
+                "time": null,
+                "item": null,
+                "level": 20,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "146": {
+        "name": "Hitmonlee",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "50",
+            "120",
+            "53",
+            "35",
+            "110",
+            "87"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "147": {
+        "name": "Hitmonchan",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "50",
+            "105",
+            "79",
+            "35",
+            "110",
+            "76"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "148": {
+        "name": "Hitmontop",
+        "types": [
+            "Fighting"
+        ],
+        "base_stats": [
+            "50",
+            "95",
+            "95",
+            "35",
+            "110",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "149": {
+        "name": "Girafarig",
+        "types": [
+            "Normal",
+            "Psychic"
+        ],
+        "base_stats": [
+            "70",
+            "80",
+            "65",
+            "90",
+            "65",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "150": {
+        "name": "Tauros",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "75",
+            "100",
+            "95",
+            "40",
+            "70",
+            "110"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "151": {
+        "name": "Miltank",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "95",
+            "80",
+            "105",
+            "40",
+            "70",
+            "100"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "152": {
+        "name": "Magby",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "45",
+            "75",
+            "37",
+            "70",
+            "55",
+            "83"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Magmar": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "153": {
+        "name": "Magmar",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "65",
+            "95",
+            "57",
+            "100",
+            "85",
+            "93"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "154": {
+        "name": "Smoochum",
+        "types": [
+            "Ice",
+            "Psychic"
+        ],
+        "base_stats": [
+            "45",
+            "30",
+            "15",
+            "85",
+            "65",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Jynx": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "155": {
+        "name": "Jynx",
+        "types": [
+            "Ice",
+            "Psychic"
+        ],
+        "base_stats": [
+            "65",
+            "50",
+            "35",
+            "115",
+            "95",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "156": {
+        "name": "Elekid",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "45",
+            "63",
+            "37",
+            "65",
+            "55",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Electabuzz": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "157": {
+        "name": "Electabuzz",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "65",
+            "83",
+            "57",
+            "95",
+            "85",
+            "105"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "158": {
+        "name": "Mr. Mime",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "40",
+            "45",
+            "65",
+            "100",
+            "120",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "159": {
+        "name": "Smeargle",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "55",
+            "20",
+            "35",
+            "20",
+            "45",
+            "75"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "160": {
+        "name": "Farfetch'd",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "base_stats": [
+            "52",
+            "65",
+            "55",
+            "58",
+            "62",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "161": {
+        "name": "Natu",
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "base_stats": [
+            "40",
+            "50",
+            "45",
+            "70",
+            "45",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Xatu": {
+                "time": null,
+                "item": null,
+                "level": 25,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "162": {
+        "name": "Xatu",
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "base_stats": [
+            "65",
+            "75",
+            "70",
+            "95",
+            "70",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "163": {
+        "name": "Qwilfish",
+        "types": [
+            "Water",
+            "Poison"
+        ],
+        "base_stats": [
+            "65",
+            "95",
+            "75",
+            "55",
+            "55",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "164": {
+        "name": "Tentacool",
+        "types": [
+            "Water",
+            "Poison"
+        ],
+        "base_stats": [
+            "40",
+            "40",
+            "35",
+            "50",
+            "100",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Tentacruel": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "165": {
+        "name": "Tentacruel",
+        "types": [
+            "Water",
+            "Poison"
+        ],
+        "base_stats": [
+            "80",
+            "70",
+            "65",
+            "80",
+            "120",
+            "100"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "166": {
+        "name": "Krabby",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "30",
+            "105",
+            "90",
+            "25",
+            "25",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Kingler": {
+                "time": null,
+                "item": null,
+                "level": 28,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "167": {
+        "name": "Kingler",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "55",
+            "130",
+            "115",
+            "50",
+            "50",
+            "75"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "168": {
+        "name": "Shuckle",
+        "types": [
+            "Bug",
+            "Rock"
+        ],
+        "base_stats": [
+            "20",
+            "10",
+            "230",
+            "10",
+            "230",
+            "5"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "169": {
+        "name": "Staryu",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "30",
+            "45",
+            "55",
+            "70",
+            "55",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Starmie": {
+                "time": null,
+                "item": "Water Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "170": {
+        "name": "Starmie",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "base_stats": [
+            "60",
+            "75",
+            "85",
+            "100",
+            "85",
+            "115"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "171": {
+        "name": "Shellder",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "30",
+            "65",
+            "100",
+            "45",
+            "25",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Cloyster": {
+                "time": null,
+                "item": "Water Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "172": {
+        "name": "Cloyster",
+        "types": [
+            "Water",
+            "Ice"
+        ],
+        "base_stats": [
+            "50",
+            "95",
+            "180",
+            "85",
+            "45",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "173": {
+        "name": "Corsola",
+        "types": [
+            "Water",
+            "Rock"
+        ],
+        "base_stats": [
+            "55",
+            "55",
+            "85",
+            "65",
+            "85",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "174": {
+        "name": "Remoraid",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "35",
+            "65",
+            "35",
+            "65",
+            "35",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Octillery": {
+                "time": null,
+                "item": null,
+                "level": 25,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "175": {
+        "name": "Octillery",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "75",
+            "105",
+            "75",
+            "105",
+            "75",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "176": {
+        "name": "Chinchou",
+        "types": [
+            "Water",
+            "Electric"
+        ],
+        "base_stats": [
+            "75",
+            "38",
+            "38",
+            "56",
+            "56",
+            "67"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Lanturn": {
+                "time": null,
+                "item": null,
+                "level": 27,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "177": {
+        "name": "Lanturn",
+        "types": [
+            "Water",
+            "Electric"
+        ],
+        "base_stats": [
+            "125",
+            "58",
+            "58",
+            "76",
+            "76",
+            "67"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "178": {
+        "name": "Seel",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "65",
+            "45",
+            "55",
+            "45",
+            "70",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Dewgong": {
+                "time": null,
+                "item": null,
+                "level": 34,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "179": {
+        "name": "Dewgong",
+        "types": [
+            "Water",
+            "Ice"
+        ],
+        "base_stats": [
+            "90",
+            "70",
+            "80",
+            "70",
+            "95",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "180": {
+        "name": "Lickitung",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "90",
+            "55",
+            "75",
+            "60",
+            "75",
+            "30"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Lickilicky": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": false,
+                "move": "Rollout"
+            }
+        }
+    },
+    "181": {
+        "name": "Lickilicky",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "110",
+            "85",
+            "95",
+            "80",
+            "95",
+            "50"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "182": {
+        "name": "Tangela",
+        "types": [
+            "Grass"
+        ],
+        "base_stats": [
+            "65",
+            "55",
+            "115",
+            "100",
+            "40",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Tangrowth": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": false,
+                "move": "Ancient Power"
+            }
+        }
+    },
+    "183": {
+        "name": "Tangrowth",
+        "types": [
+            "Grass"
+        ],
+        "base_stats": [
+            "100",
+            "100",
+            "125",
+            "110",
+            "50",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "184": {
+        "name": "Eevee",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "55",
+            "55",
+            "50",
+            "45",
+            "65",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Vaporeon": {
+                "time": null,
+                "item": "Water Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            },
+            "Jolteon": {
+                "time": null,
+                "item": "Thunder Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            },
+            "Flareon": {
+                "time": null,
+                "item": "Fire Stone",
+                "level": null,
+                "happiness": null,
+                "trade": false
+            },
+            "Espeon": {
+                "time": "Day",
+                "item": null,
+                "level": null,
+                "happiness": 220,
+                "trade": false
+            },
+            "Umbreon": {
+                "time": "Night",
+                "item": null,
+                "level": null,
+                "happiness": 220,
+                "trade": false
+            }
+        }
+    },
+    "185": {
+        "name": "Vaporeon",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "130",
+            "65",
+            "60",
+            "110",
+            "95",
+            "65"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "186": {
+        "name": "Jolteon",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "65",
+            "65",
+            "60",
+            "110",
+            "95",
+            "130"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "187": {
+        "name": "Flareon",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "65",
+            "130",
+            "60",
+            "95",
+            "110",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "188": {
+        "name": "Espeon",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "65",
+            "65",
+            "60",
+            "130",
+            "95",
+            "110"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "189": {
+        "name": "Umbreon",
+        "types": [
+            "Dark"
+        ],
+        "base_stats": [
+            "95",
+            "65",
+            "110",
+            "60",
+            "130",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "190": {
+        "name": "Horsea",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "30",
+            "40",
+            "70",
+            "70",
+            "25",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Seadra": {
+                "time": null,
+                "item": null,
+                "level": 32,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "191": {
+        "name": "Seadra",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "55",
+            "65",
+            "95",
+            "95",
+            "45",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Kingdra": {
+                "time": null,
+                "item": "Dragon Scale",
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "192": {
+        "name": "Kingdra",
+        "types": [
+            "Water",
+            "Dragon"
+        ],
+        "base_stats": [
+            "75",
+            "95",
+            "95",
+            "95",
+            "95",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "193": {
+        "name": "Gligar",
+        "types": [
+            "Ground",
+            "Flying"
+        ],
+        "base_stats": [
+            "65",
+            "75",
+            "105",
+            "35",
+            "65",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "194": {
+        "name": "Delibird",
+        "types": [
+            "Ice",
+            "Flying"
+        ],
+        "base_stats": [
+            "45",
+            "55",
+            "45",
+            "65",
+            "45",
+            "75"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "195": {
+        "name": "Swinub",
+        "types": [
+            "Ice",
+            "Ground"
+        ],
+        "base_stats": [
+            "50",
+            "50",
+            "40",
+            "30",
+            "30",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Piloswine": {
+                "time": null,
+                "item": null,
+                "level": 33,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "196": {
+        "name": "Piloswine",
+        "types": [
+            "Ice",
+            "Ground"
+        ],
+        "base_stats": [
+            "100",
+            "100",
+            "80",
+            "60",
+            "60",
+            "50"
+        ],
+        "ev_yields": [
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Mamoswine": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": null,
+                "trade": false,
+                "move": "Ancient Power"
+            }
+        }
+    },
+    "197": {
+        "name": "Mamoswine",
+        "types": [
+            "Ice",
+            "Ground"
+        ],
+        "base_stats": [
+            "110",
+            "130",
+            "80",
+            "70",
+            "60",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "198": {
+        "name": "Teddiursa",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "60",
+            "80",
+            "50",
+            "50",
+            "50",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Ursaring": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "199": {
+        "name": "Ursaring",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "90",
+            "130",
+            "75",
+            "75",
+            "75",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "200": {
+        "name": "Phanpy",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "90",
+            "60",
+            "60",
+            "40",
+            "40",
+            "40"
+        ],
+        "ev_yields": [
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Donphan": {
+                "time": null,
+                "item": null,
+                "level": 25,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "201": {
+        "name": "Donphan",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "90",
+            "120",
+            "120",
+            "60",
+            "60",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "202": {
+        "name": "Mantine",
+        "types": [
+            "Water",
+            "Flying"
+        ],
+        "base_stats": [
+            "65",
+            "40",
+            "70",
+            "80",
+            "140",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "203": {
+        "name": "Skarmory",
+        "types": [
+            "Steel",
+            "Flying"
+        ],
+        "base_stats": [
+            "65",
+            "80",
+            "140",
+            "40",
+            "70",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "204": {
+        "name": "Doduo",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "base_stats": [
+            "35",
+            "85",
+            "45",
+            "35",
+            "35",
+            "75"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Dodrio": {
+                "time": null,
+                "item": null,
+                "level": 31,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "205": {
+        "name": "Dodrio",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "base_stats": [
+            "60",
+            "110",
+            "70",
+            "60",
+            "60",
+            "100"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "206": {
+        "name": "Ponyta",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "50",
+            "85",
+            "55",
+            "65",
+            "65",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Rapidash": {
+                "time": null,
+                "item": null,
+                "level": 40,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "207": {
+        "name": "Rapidash",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "65",
+            "100",
+            "70",
+            "80",
+            "80",
+            "105"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "208": {
+        "name": "Cubone",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "50",
+            "50",
+            "95",
+            "40",
+            "50",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Marowak": {
+                "time": null,
+                "item": null,
+                "level": 28,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "209": {
+        "name": "Marowak",
+        "types": [
+            "Ground"
+        ],
+        "base_stats": [
+            "60",
+            "80",
+            "110",
+            "50",
+            "80",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "210": {
+        "name": "Kangaskhan",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "105",
+            "95",
+            "80",
+            "40",
+            "80",
+            "90"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "211": {
+        "name": "Rhyhorn",
+        "types": [
+            "Ground",
+            "Rock"
+        ],
+        "base_stats": [
+            "80",
+            "85",
+            "95",
+            "30",
+            "30",
+            "25"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Rhydon": {
+                "time": null,
+                "item": null,
+                "level": 42,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "212": {
+        "name": "Rhydon",
+        "types": [
+            "Ground",
+            "Rock"
+        ],
+        "base_stats": [
+            "105",
+            "130",
+            "120",
+            "45",
+            "45",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "213": {
+        "name": "Murkrow",
+        "types": [
+            "Dark",
+            "Flying"
+        ],
+        "base_stats": [
+            "60",
+            "85",
+            "42",
+            "85",
+            "42",
+            "91"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "214": {
+        "name": "Houndour",
+        "types": [
+            "Dark",
+            "Fire"
+        ],
+        "base_stats": [
+            "45",
+            "60",
+            "30",
+            "80",
+            "50",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Houndoom": {
+                "time": null,
+                "item": null,
+                "level": 24,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "215": {
+        "name": "Houndoom",
+        "types": [
+            "Dark",
+            "Fire"
+        ],
+        "base_stats": [
+            "75",
+            "90",
+            "50",
+            "110",
+            "80",
+            "95"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "216": {
+        "name": "Slugma",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "40",
+            "40",
+            "40",
+            "70",
+            "40",
+            "20"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Magcargo": {
+                "time": null,
+                "item": null,
+                "level": 38,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "217": {
+        "name": "Magcargo",
+        "types": [
+            "Fire",
+            "Rock"
+        ],
+        "base_stats": [
+            "50",
+            "50",
+            "120",
+            "80",
+            "80",
+            "30"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "218": {
+        "name": "Sneasel",
+        "types": [
+            "Dark",
+            "Ice"
+        ],
+        "base_stats": [
+            "55",
+            "95",
+            "55",
+            "35",
+            "75",
+            "115"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "219": {
+        "name": "Misdreavus",
+        "types": [
+            "Ghost"
+        ],
+        "base_stats": [
+            "60",
+            "60",
+            "60",
+            "85",
+            "85",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "220": {
+        "name": "Porygon",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "65",
+            "60",
+            "70",
+            "85",
+            "75",
+            "40"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Porygon2": {
+                "time": null,
+                "item": "Upgrade",
+                "level": null,
+                "happiness": null,
+                "trade": true
+            }
+        }
+    },
+    "221": {
+        "name": "Porygon2",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "85",
+            "80",
+            "90",
+            "105",
+            "95",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "222": {
+        "name": "Chansey",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "250",
+            "5",
+            "5",
+            "35",
+            "105",
+            "50"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Blissey": {
+                "time": null,
+                "item": null,
+                "level": null,
+                "happiness": 220,
+                "trade": false
+            }
+        }
+    },
+    "223": {
+        "name": "Blissey",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "255",
+            "10",
+            "10",
+            "75",
+            "135",
+            "55"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "224": {
+        "name": "Lapras",
+        "types": [
+            "Water",
+            "Ice"
+        ],
+        "base_stats": [
+            "130",
+            "85",
+            "80",
+            "85",
+            "95",
+            "60"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "225": {
+        "name": "Omanyte",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "base_stats": [
+            "35",
+            "40",
+            "100",
+            "90",
+            "55",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Omastar": {
+                "time": null,
+                "item": null,
+                "level": 40,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "226": {
+        "name": "Omastar",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "base_stats": [
+            "70",
+            "60",
+            "125",
+            "115",
+            "70",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "227": {
+        "name": "Kabuto",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "base_stats": [
+            "30",
+            "80",
+            "90",
+            "55",
+            "45",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Kabutops": {
+                "time": null,
+                "item": null,
+                "level": 40,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "228": {
+        "name": "Kabutops",
+        "types": [
+            "Rock",
+            "Water"
+        ],
+        "base_stats": [
+            "60",
+            "115",
+            "105",
+            "65",
+            "70",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "229": {
+        "name": "Aerodactyl",
+        "types": [
+            "Rock",
+            "Flying"
+        ],
+        "base_stats": [
+            "80",
+            "105",
+            "65",
+            "60",
+            "75",
+            "130"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "230": {
+        "name": "Snorlax",
+        "types": [
+            "Normal"
+        ],
+        "base_stats": [
+            "160",
+            "110",
+            "65",
+            "65",
+            "110",
+            "30"
+        ],
+        "ev_yields": [
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "231": {
+        "name": "Bulbasaur",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "45",
+            "49",
+            "49",
+            "65",
+            "65",
+            "45"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Ivysaur": {
+                "time": null,
+                "item": null,
+                "level": 16,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "232": {
+        "name": "Ivysaur",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "60",
+            "62",
+            "63",
+            "80",
+            "80",
+            "60"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Venusaur": {
+                "time": null,
+                "item": null,
+                "level": 32,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "233": {
+        "name": "Venusaur",
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": [
+            "80",
+            "82",
+            "83",
+            "100",
+            "100",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "2",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "234": {
+        "name": "Charmander",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "39",
+            "52",
+            "43",
+            "60",
+            "50",
+            "65"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Charmeleon": {
+                "time": null,
+                "item": null,
+                "level": 16,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "235": {
+        "name": "Charmeleon",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "58",
+            "64",
+            "58",
+            "80",
+            "65",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+        ],
+        "evolutions": {
+            "Charizard": {
+                "time": null,
+                "item": null,
+                "level": 36,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "236": {
+        "name": "Charizard",
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "base_stats": [
+            "78",
+            "84",
+            "78",
+            "109",
+            "85",
+            "100"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "237": {
+        "name": "Squirtle",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "44",
+            "48",
+            "65",
+            "50",
+            "64",
+            "43"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Wartortle": {
+                "time": null,
+                "item": null,
+                "level": 16,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "238": {
+        "name": "Wartortle",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "59",
+            "63",
+            "80",
+            "65",
+            "80",
+            "58"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolutions": {
+            "Blastoise": {
+                "time": null,
+                "item": null,
+                "level": 36,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "239": {
+        "name": "Blastoise",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "79",
+            "83",
+            "100",
+            "85",
+            "105",
+            "78"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "240": {
+        "name": "Articuno",
+        "types": [
+            "Ice",
+            "Flying"
+        ],
+        "base_stats": [
+            "90",
+            "85",
+            "100",
+            "95",
+            "125",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "241": {
+        "name": "Zapdos",
+        "types": [
+            "Electric",
+            "Flying"
+        ],
+        "base_stats": [
+            "90",
+            "90",
+            "85",
+            "125",
+            "90",
+            "100"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "242": {
+        "name": "Moltres",
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "base_stats": [
+            "90",
+            "100",
+            "90",
+            "125",
+            "85",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "243": {
+        "name": "Raikou",
+        "types": [
+            "Electric"
+        ],
+        "base_stats": [
+            "90",
+            "85",
+            "75",
+            "115",
+            "100",
+            "115"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "2"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "244": {
+        "name": "Entei",
+        "types": [
+            "Fire"
+        ],
+        "base_stats": [
+            "115",
+            "115",
+            "85",
+            "90",
+            "75",
+            "100"
+        ],
+        "ev_yields": [
+            "1",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "245": {
+        "name": "Suicune",
+        "types": [
+            "Water"
+        ],
+        "base_stats": [
+            "100",
+            "75",
+            "115",
+            "90",
+            "115",
+            "85"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "1",
+            "0",
+            "2",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "246": {
+        "name": "Dratini",
+        "types": [
+            "Dragon"
+        ],
+        "base_stats": [
+            "41",
+            "64",
+            "45",
+            "50",
+            "50",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Dragonair": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "247": {
+        "name": "Dragonair",
+        "types": [
+            "Dragon"
+        ],
+        "base_stats": [
+            "61",
+            "84",
+            "65",
+            "70",
+            "70",
+            "70"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Dragonite": {
+                "time": null,
+                "item": null,
+                "level": 55,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "248": {
+        "name": "Dragonite",
+        "types": [
+            "Dragon",
+            "Flying"
+        ],
+        "base_stats": [
+            "91",
+            "134",
+            "95",
+            "100",
+            "100",
+            "80"
+        ],
+        "ev_yields": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "249": {
+        "name": "Larvitar",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "base_stats": [
+            "50",
+            "64",
+            "50",
+            "45",
+            "50",
+            "41"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Pupitar": {
+                "time": null,
+                "item": null,
+                "level": 30,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "250": {
+        "name": "Pupitar",
+        "types": [
+            "Rock",
+            "Ground"
+        ],
+        "base_stats": [
+            "70",
+            "84",
+            "70",
+            "65",
+            "70",
+            "51"
+        ],
+        "ev_yields": [
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            "Tyranitar": {
+                "time": null,
+                "item": null,
+                "level": 55,
+                "happiness": null,
+                "trade": false
+            }
+        }
+    },
+    "251": {
+        "name": "Tyranitar",
+        "types": [
+            "Rock",
+            "Dark"
+        ],
+        "base_stats": [
+            "100",
+            "134",
+            "110",
+            "95",
+            "100",
+            "61"
+        ],
+        "ev_yields": [
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "252": {
+        "name": "Lugia",
+        "types": [
+            "Psychic",
+            "Flying"
+        ],
+        "base_stats": [
+            "106",
+            "90",
+            "130",
+            "90",
+            "154",
+            "110"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "253": {
+        "name": "Ho-oh",
+        "types": [
+            "Fire",
+            "Flying"
+        ],
+        "base_stats": [
+            "106",
+            "130",
+            "90",
+            "110",
+            "154",
+            "90"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "254": {
+        "name": "Mewtwo",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "106",
+            "110",
+            "90",
+            "154",
+            "90",
+            "130"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+            
+        }
+    },
+    "255": {
+        "name": "Mew",
+        "types": [
+            "Psychic"
+        ],
+        "base_stats": [
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
+    },
+    "256": {
+        "name": "Celebi",
+        "types": [
+            "Psychic",
+            "Grass"
+        ],
+        "base_stats": [
+            "100",
+            "100",
+            "100",
+            "100",
+            "100",
+            "100"
+        ],
+        "ev_yields": [
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolutions": {
+           
+        }
     }
 }

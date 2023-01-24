@@ -36,31 +36,10 @@
             6,
             0,
             1,
-            24
+            25
         ],
         "level": 12,
         "nature": "Hasty"
-    },
-    "Beedrill": {
-        "real_name": "Beedrill",
-        "stats": [
-            36,
-            28,
-            17,
-            16,
-            25,
-            22
-        ],
-        "evs": [
-            6,
-            6,
-            7,
-            1,
-            1,
-            24
-        ],
-        "level": 11,
-        "nature": "Adamant"
     },
     "Pidgey": {
         "real_name": "Pidgey",
@@ -74,7 +53,7 @@
         ],
         "evs": [
             0,
-            13,
+            12,
             0,
             2,
             1,
@@ -82,27 +61,6 @@
         ],
         "level": 12,
         "nature": "Serious"
-    },
-    "Onix": {
-        "real_name": "Onix",
-        "stats": [
-            25,
-            13,
-            28,
-            11,
-            13,
-            18
-        ],
-        "evs": [
-            4,
-            0,
-            0,
-            0,
-            0,
-            6
-        ],
-        "level": 8,
-        "nature": "Hasty"
     },
     "Gastly": {
         "real_name": "Gastly",
@@ -120,9 +78,51 @@
             1,
             2,
             3,
-            12
+            15
         ],
         "level": 13,
         "nature": "Quiet"
+    },
+    "Togepi": {
+        "real_name": "Togepi",
+        "stats": [
+            32,
+            11,
+            22,
+            13,
+            21,
+            9
+        ],
+        "evs": [
+            0,
+            9,
+            6,
+            7,
+            1,
+            5
+        ],
+        "level": 11,
+        "nature": "Impish"
+    },
+    "Poliwhirl": {
+        "real_name": "Poliwhirl",
+        "stats": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "evs": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "level": 1,
+        "nature": "Bashful"
     }
 }
