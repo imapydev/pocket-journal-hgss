@@ -103,26 +103,5 @@
         ],
         "level": 11,
         "nature": "Impish"
-    },
-    "Poliwhirl": {
-        "real_name": "Poliwhirl",
-        "stats": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "evs": [
-            0,
-            0,
-            0,
-            0,
-            0,
-            0
-        ],
-        "level": 1,
-        "nature": "Bashful"
     }
 }
