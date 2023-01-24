@@ -283,6 +283,16 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
             return
         else:
             evolution = self.db.get_evolution(poke)
+            if len(evolution) != 1:
+                print("Too many evolutions")
+                evo = self.dialog_choose_evolution(evolution)
+                if evo == None:
+                    print("Evolution cancelled")
+                    return
+                else:
+                    evolution = evo
+            else:
+                evolution = evolution[0]
             if evolution not in self.db.get_dex_names():
                 self.warning("Data missing", f"{poke}'s evolution not found in database.")
                 return
@@ -318,6 +328,8 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
                 item.setStyleSheet("color: black;")
             for item in self.current_ivs:
                 item.setText("-")
+            for item in self.stat_labels:
+                item.setStyleSheet("color: black;")
             self.sprite_btn.setToolTip(f"Click to view {poke} data")
             sprite_path = f"resources/sprites/{self.db.find_dex_number(poke)}.png"
             if exists(sprite_path):
@@ -379,6 +391,8 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
         if poke == "Party box..":
             return
         else:
+            for item in self.current_evs:
+                item.setStyleSheet("color: black;")
             stats = [item.value() for item in self.current_stats]
             evs = [item.value() for item in self.current_evs]
             level = self.level.value()
@@ -582,6 +596,18 @@ Useful if you don't know the Pokémon's ev yields by heart.""")
             if not ok:
                 return None
         return nickname
+
+    def dialog_choose_evolution(self, evolution_list):
+        evolution = None
+        while evolution not in evolution_list:
+            evolution, ok = QInputDialog.getText(self, f"Evolution", f"Possible evolutions:\n{[item for item in evolution_list]}\nChoose one: ",
+                                                QLineEdit.Normal, evolution_list[0])
+        
+            if not ok:
+                return None
+
+        return evolution
+
             
 
     
