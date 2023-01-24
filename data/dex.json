@@ -1041,6 +1041,65 @@
         ],
         "evolution": "Golbat"
     },
+    "050": {
+        "name": "Ekans",
+        "types": [
+            "Poison"
+        ],
+        "abilities": [
+            "Intimidate",
+            "Shed Skin"
+        ],
+        "hidden_abilities": [
+            "Unnerve"
+        ],
+        "base_stats": [
+            "35",
+            "60",
+            "44",
+            "40",
+            "54",
+            "55"
+        ],
+        "ev_yields": [
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+        ],
+        "evolution": "Arbok"
+    },
+    "053": {
+        "name": "Mareep",
+        "types": [
+            "Electric"
+        ],
+        "abilities": [
+            "Static"
+        ],
+        "hidden_abilities": [
+            "Plus"
+        ],
+        "base_stats": [
+            "55",
+            "40",
+            "40",
+            "65",
+            "45",
+            "35"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0"
+        ],
+        "evolution": "Flaafy"
+    },
     "058": {
         "name": "Gastly",
         "types": [
@@ -1157,5 +1216,36 @@
             "0"
         ],
         "evolution": "Weepinbell"
+    },
+    "067": {
+        "name": "Hoppip",
+        "types": [
+            "Grass",
+            "Flying"
+        ],
+        "abilities": [
+            "Chlorophyll",
+            "Leaf Guard"
+        ],
+        "hidden_abilities": [
+            "Infiltrator"
+        ],
+        "base_stats": [
+            "35",
+            "35",
+            "40",
+            "35",
+            "55",
+            "50"
+        ],
+        "ev_yields": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0"
+        ],
+        "evolution": "Skiploom"
     }
 }
